@@ -1,0 +1,11 @@
+class="horizontal-box"
+
+class="roles-section"
+
+//*[@id="root"]/div[1]/div/div[2]/div/div/div[2]/div[2]
+
+class="Col_i9j08c-o_O-xsCol12_1m1ceo5-o_O-lgCol4_e566tt hideOnSmall_143z63n p-l-2"
+
+scrapy shell -s USER_AGENT='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36' https://www.coursera.org/learn/cs-fundamentals-3
+
+class="vertical-box"
